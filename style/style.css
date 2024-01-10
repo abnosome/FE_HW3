@@ -1,0 +1,33 @@
+
+.full{
+    background-color:#f5cd79 ;
+}
+.full h2{
+    color: #e15f41;
+}
+
+.full h1{
+    color: #e15f41;
+}
+
+.full .list ul{
+    font-size: 15px;
+    color: #e66767;
+}
+
+.full .list p{
+    color:#e15f41;
+    font-size: x-large;
+}
+.table tr  {
+    background-color: #a1b1d5;
+    border: 2px solid #303952;
+}
+.table tr td{
+   
+    padding: 10px;
+    border-collapse: collapse; 
+    width: 20%;
+}
+
+
